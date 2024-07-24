@@ -180,9 +180,16 @@ nav ul li .nav-text {
     nav ul {
         flex-direction: column;
     }
+    nav ul li{
+        height: fit-content;
+    }
+    #nav ul li{
+        height: fit-content;
+    }
 
     #nav ul {
         flex-direction: column;
+        
     }
 
     #logo-1 {
